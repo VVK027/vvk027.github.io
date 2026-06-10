@@ -3,7 +3,7 @@
   "location": "Hyderabad, India",
   "title": "Lead Mobile Developer · Sr. Mobile Developer · Flutter · React Native · Ionic · Android · iOS",
   "summary": [
-    "Passionate Mobile Lead and Senior Developer with 9 years of experience delivering high-quality, scalable, and maintainable applications across Android, iOS, Flutter, and React Native platforms.",
+    "Passionate Mobile Lead and Senior Developer with 9+ years of experience delivering high-quality, scalable, and maintainable applications across Android, iOS, Flutter, and React Native platforms.",
     "Proven expertise in leading end-to-end product lifecycles - from concept, roadmap, architecture, and implementation to release management, deployment, and long-term support. Strong experience mentoring engineering teams, conducting code reviews, establishing technical best practices, and improving delivery predictability in fast-paced Agile environments.",
     "Specialized in cross-platform architecture, Clean Architecture, Domain-Driven Design (DDD), BLE/IoT integrations, healthcare systems, enterprise mobility, CI/CD automation, and mobile performance optimization.",
     "Partner closely with product managers, business stakeholders, QA teams, designers, DevOps teams, and backend engineers to translate business goals into scalable, user-centric mobile solutions that improve reliability, performance, and time-to-market.",
@@ -98,49 +98,6 @@
   ],
   "projects": [
     {
-      "name": "Metro City Pulse",
-      "tags": [
-        "Flutter",
-        "Dart",
-        "Web",
-        "Android",
-        "iOS",
-        "Mobile",
-        "Desktop",
-        "Responsive",
-        "Riverpod",
-        "GoRouter",
-        "Clean Architecture",
-        "Google Maps",
-        "Firebase Auth",
-        "Cross-platform",
-        "Smart City"
-      ],
-      "features": [
-        "Interactive Map Dashboard",
-        "Incident Marker Filtering",
-        "Stats & KPI Overview",
-        "CCTV Alert Playback",
-        "Dark & Light Theme",
-        "English & Spanish Localization",
-        "Responsive Navigation Shell",
-        "Offline Connectivity Handling",
-        "Date Range Filtering",
-        "Firebase Authentication"
-      ],
-      "desc": "Built a cross-platform smart city monitoring app with Google Maps incident tracking, operational dashboards, CCTV-backed alerts, and adaptive layouts for mobile, tablet, and desktop.",
-      "fullDescription": [
-        "Implemented an interactive Google Maps dashboard with incident markers, severity legends, custom info windows, filter controls, zoom tools, and periodic data refresh for live operational views.",
-        "Designed and developed a real-time smart city monitoring dashboard as a cross-platform Flutter app for web, Android, iOS, macOS, Linux, and Windows from a single codebase.",
-        "Built stats and alerts workspaces with KPI summary cards, tabbed case status, confidence scoring, date-range selection, and CCTV video playback for incident review.",
-        "Applied Clean Architecture with Riverpod state management, GoRouter navigation, repository-based data flow, reusable UI components, and responsive shell layouts that switch between side menu and bottom navigation."
-      ],
-      "previewImage": "assets/projects/metro_city_pulse_preview.jpg",
-      "playStoreUrl": [],
-      "appStoreUrl": [],
-      "githubUrl": "https://github.com/VVK027/metro_city_pulse"
-    },
-    {
       "name": "Mastermind Driver App",
       "tags": [
         "Flutter",
@@ -148,17 +105,18 @@
         "React Native",
         "JavaScript",
         "TypeScript",
-        "Logistics",
-        "Android",
-        "iOS",
-        "Tablet",
-        "Web",
-        "REST API",
         "Clean Architecture",
         "Riverpod",
+        "REST API",
         "Firebase",
         "Crashlytics",
-        "Cross-platform"
+        "Android",
+        "iOS",
+        "Web",
+        "Tablet",
+        "Cross-platform",
+        "Responsive",
+        "Logistics"
       ],
       "features": [
         "Route Management",
@@ -185,24 +143,69 @@
       ]
     },
     {
+      "name": "Metro City Pulse",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Riverpod",
+        "GoRouter",
+        "Clean Architecture",
+        "Google Maps",
+        "Web",
+        "Android",
+        "iOS",
+        "Mobile",
+        "Desktop",
+        "Cross-platform",
+        "Responsive"
+      ],
+      "features": [
+        "Interactive Map Dashboard",
+        "Incident Marker Filtering",
+        "Stats & KPI Overview",
+        "CCTV Alert Playback",
+        "Dark & Light Theme",
+        "English & Spanish Localization",
+        "Responsive Navigation Shell",
+        "Offline Connectivity Handling",
+        "Date Range Filtering",
+        "Firebase Authentication"
+      ],
+      "desc": "Built a cross-platform smart city monitoring app with Google Maps incident tracking, operational dashboards, CCTV-backed alerts, and adaptive layouts for mobile, tablet, and desktop.",
+      "fullDescription": [
+        "Implemented an interactive Google Maps dashboard with incident markers, severity legends, custom info windows, filter controls, zoom tools, and periodic data refresh for live operational views.",
+        "Designed and developed a real-time smart city monitoring dashboard as a cross-platform Flutter app for web, Android, iOS, macOS, Linux, and Windows from a single codebase.",
+        "Built stats and alerts workspaces with KPI summary cards, tabbed case status, confidence scoring, date-range selection, and CCTV video playback for incident review.",
+        "Applied Clean Architecture with Riverpod state management, GoRouter navigation, repository-based data flow, reusable UI components, and responsive shell layouts that switch between side menu and bottom navigation."
+      ],
+      "previewImage": "assets/projects/metro_city_pulse_preview.jpg",
+      "playStoreUrl": [],
+      "appStoreUrl": [],
+      "githubUrl": "https://github.com/VVK027/metro_city_pulse"
+    },
+    {
       "name": "The Kidde App",
       "tags": [
         "Flutter",
         "Dart",
+        "Kotlin",
+        "Swift",
+        "Clean Architecture",
+        "GoRouter",
+        "Riverpod",
+        "Rest API",
+        "GraphQL",
+        "Firebase",
+        "Crashlytics",
         "IOT",
         "BLE",
         "Wi-Fi",
         "Android",
         "iOS",
-        "Kotlin",
-        "Swift",
-        "Rest/GraphQL",
-        "Clean Architecture",
-        "GoRouter",
-        "Riverpod",
-        "Firebase",
-        "Crashlytics",
-        "Cross-platform"
+        "Tablet",
+        "Cross-platform",
+        "Responsive",
+        "Payments"
       ],
       "features": [
         "Home Safety",
@@ -238,16 +241,16 @@
       "tags": [
         "Flutter",
         "Dart",
+        "Riverpod",
+        "GoRouter",
+        "Clean Architecture",
         "Web",
         "Android",
         "iOS",
         "Mobile",
-        "Responsive",
-        "Riverpod",
-        "GoRouter",
-        "Clean Architecture",
-        "JSON-driven UI",
-        "Cross-platform"
+        "Tablet",
+        "Cross-platform",
+        "Responsive"
       ],
       "features": [
         "Responsive Layout",
@@ -277,13 +280,13 @@
         "Flutter",
         "Dart",
         "Plugin",
-        "BLE",
         "Java",
         "Swift",
+        "BLE",
         "Android",
         "iOS",
         "Mobile",
-        "Platform Channel",
+        "Tablet",
         "Cross-platform"
       ],
       "features": [
@@ -309,50 +312,20 @@
       "githubUrl": "https://github.com/VVK027/flutter_band_fit"
     },
     {
-      "name": "Docty Clinics",
-      "tags": [
-        "Flutter",
-        "Dart",
-        "Healthcare",
-        "Web",
-        "Mobile",
-        "Bloc",
-        "Cubit",
-        "REST API",
-        "Firebase",
-        "Crashlytics",
-        "Cross-platform"
-      ],
-      "features": [
-        "Appointment Booking",
-        "Physician Scheduling",
-        "Staff Management",
-        "Consultation Tracking",
-        "Pharmacy Operations",
-        "Branch Administration"
-      ],
-      "desc": "Developed a clinic and pharmacy operations app supporting staff, physician, appointment, consultation, and branch management.",
-      "fullDescription": [
-        "Developed a comprehensive mobile application designed to streamline the operations of clinics and pharmacies.",
-        "The platform enables efficient management of staff, patients, physicians, specialties, laboratories, consultations, and branch-level administration.",
-        "It supports configuration of operating hours, schedules, and availability, along with customizable SMS/email templates for automated communication.",
-        "The system also includes modules for appointment scheduling, subscription plans, service packages, coupons, and departmental organization - providing a unified and scalable digital healthcare management solution."
-      ],
-      "previewImage": "assets/projects/docty_clinics_preview.jpg",
-      "playStoreUrl": [],
-      "appStoreUrl": []
-    },
-    {
       "name": "Docty Digital Health for All",
       "tags": [
         "Flutter",
         "Dart",
-        "Android",
-        "iOS",
         "Bloc",
         "Cubit",
-        "Mobile",
+        "Rest API",
+        "Firebase",
+        "Crashlytics",
+        "Android",
+        "iOS",
         "Web",
+        "Mobile",
+        "Tablet",
         "Cross-platform",
         "Healthcare",
         "Payments"
@@ -384,15 +357,55 @@
       ]
     },
     {
+      "name": "Docty Clinics",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Bloc",
+        "Cubit",
+        "REST API",
+        "Firebase",
+        "Crashlytics",
+        "Web",
+        "Mobile",
+        "Cross-platform",
+        "Healthcare",
+        "Payments"
+      ],
+      "features": [
+        "Appointment Booking",
+        "Physician Scheduling",
+        "Staff Management",
+        "Consultation Tracking",
+        "Pharmacy Operations",
+        "Branch Administration"
+      ],
+      "desc": "Developed a clinic and pharmacy operations app supporting staff, physician, appointment, consultation, and branch management.",
+      "fullDescription": [
+        "Developed a comprehensive mobile application designed to streamline the operations of clinics and pharmacies.",
+        "The platform enables efficient management of staff, patients, physicians, specialties, laboratories, consultations, and branch-level administration.",
+        "It supports configuration of operating hours, schedules, and availability, along with customizable SMS/email templates for automated communication.",
+        "The system also includes modules for appointment scheduling, subscription plans, service packages, coupons, and departmental organization - providing a unified and scalable digital healthcare management solution."
+      ],
+      "previewImage": "assets/projects/docty_clinics_preview.jpg",
+      "playStoreUrl": [],
+      "appStoreUrl": []
+    },
+    {
       "name": "CHHelps",
       "tags": [
         "React Native",
         "JavaScript",
         "TypeScript",
+        "Rest API",
+        "Firebase",
+        "Crashlytics",
         "Android",
         "iOS",
         "Mobile",
-        "Cross-platform"
+        "Cross-platform",
+        "Logistics",
+        "Payments"
       ],
       "features": [
         "Dynamic Workflows",
@@ -417,13 +430,16 @@
     {
       "name": "CallHealth Partners",
       "tags": [
-        "Mobile",
-        "Healthcare",
-        "Android",
         "Java",
         "Kotlin",
+        "Rest API",
+        "Firebase",
+        "Crashlytics",
+        "Android",
+        "Mobile",
         "Logistics",
-        "Payments"
+        "Payments",
+        "Healthcare"
       ],
       "features": [
         "Multi-business Cart",
@@ -449,10 +465,12 @@
     {
       "name": "CHInfoaids",
       "tags": [
-        "Healthcare",
-        "Android",
         "Java",
-        "Mobile"
+        "Rest API",
+        "Firebase",
+        "Android",
+        "Mobile",
+        "Healthcare"
       ],
       "features": [
         "WebRTC Video",
@@ -484,10 +502,8 @@
         "JavaScript",
         "HTML",
         "CSS",
-        "JSON",
         "REST API",
         "Firebase",
-        "Operations",
         "Cross-platform"
       ],
       "features": [
@@ -518,13 +534,16 @@
       "tags": [
         "Flutter",
         "Dart",
-        "Mobile",
+        "Provider",
+        "Rest API",
+        "Firebase",
         "Android",
         "iOS",
         "Web",
+        "Mobile",
         "Cross-platform",
-        "Provider",
-        "eCommerce"
+        "eCommerce",
+        "Payments"
       ],
       "features": [
         "Home Delivery",
@@ -549,10 +568,13 @@
     {
       "name": "Y&G Partner",
       "tags": [
-        "Android",
         "Java",
+        "Rest API",
+        "Android",
         "Mobile",
-        "Commerce"
+        "Tablet",
+        "Logistics",
+        "Payments"
       ],
       "features": [
         "Stock Management",
