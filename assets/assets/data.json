@@ -1,0 +1,630 @@
+{
+  "name": "Vivek Kumar",
+  "location": "Hyderabad, India",
+  "title": "Lead Mobile Developer · Sr. Mobile Developer · Flutter · React Native · Ionic · Android · iOS",
+  "summary": [
+    "Passionate Mobile Lead and Senior Developer with 9 years of experience delivering high-quality, scalable, and maintainable applications across Android, iOS, Flutter, and React Native platforms.",
+    "Proven expertise in leading end-to-end product lifecycles - from concept, roadmap, architecture, and implementation to release management, deployment, and long-term support. Strong experience mentoring engineering teams, conducting code reviews, establishing technical best practices, and improving delivery predictability in fast-paced Agile environments.",
+    "Specialized in cross-platform architecture, Clean Architecture, Domain-Driven Design (DDD), BLE/IoT integrations, healthcare systems, enterprise mobility, CI/CD automation, and mobile performance optimization.",
+    "Partner closely with product managers, business stakeholders, QA teams, designers, DevOps teams, and backend engineers to translate business goals into scalable, user-centric mobile solutions that improve reliability, performance, and time-to-market.",
+    "Seeking to leverage strong technical depth, engineering leadership, architecture ownership, and product mindset to drive measurable business outcomes and build impactful mobile experiences."
+  ],
+  "strengths": [
+    {
+      "title": "Engineering Leadership",
+      "description": "I don't just write code; I build teams. I have a proven track record of mentoring developers, conducting rigorous code reviews, and implementing Clean Architecture and DDD to ensure projects remain scalable and debt-free."
+    },
+    {
+      "title": "Specialized Domain Knowledge",
+      "description": "I thrive in high-stakes environments, including Healthcare, Logistics, and IoT. My experience with BLE/Wi-Fi integrations and real-time systems means I'm comfortable at the intersection of hardware and software."
+    },
+    {
+      "title": "Product Mindset",
+      "description": "I view myself as a partner to stakeholders. I collaborate closely with PMs and designers to ensure every feature we ship solves a real-world problem and improves time-to-market."
+    },
+    {
+      "title": "Modernization Expert",
+      "description": "I specialize in native-to-Flutter transitions, helping companies modernize their tech stacks without losing performance or user trust."
+    }
+  ],
+  "experience": [
+    {
+      "company": "Centific Global Technologies Pvt. Ltd.",
+      "role": "Lead Mobile Developer",
+      "period": "Oct 2024 – Sep 2025",
+      "location": "Hyderabad",
+      "bullets": [
+        "Leading and collaborating with a diverse team of mobile developers, providing technical guidance, mentorship, architecture ownership, and hands-on development support.",
+        "Managing resource allocation, sprint planning, code reviews, technical documentation, and stakeholder communication to ensure successful project delivery.",
+        "Defining scalable mobile architectures and implementing best engineering practices to maintain clean, maintainable, and reusable codebases.",
+        "Played a key role in migrating legacy applications into modern Flutter and React Native ecosystems.",
+        "Strengthened CI/CD pipelines, QA processes, and deployment strategies to reduce release failures and improve delivery efficiency.",
+        "Fostered a culture of continuous improvement, technical excellence, and collaborative problem-solving.",
+        "Improved application performance through profiling, caching, lazy loading, widget rebuild optimization, and memory optimization."
+      ]
+    },
+    {
+      "company": "Carrier Technologies (via Drepp Technologies Pvt. Ltd.)",
+      "role": "Senior Mobile Developer",
+      "period": "Oct 2023 – Sep 2024",
+      "location": "Hyderabad",
+      "bullets": [
+        "Worked as a Senior Flutter Developer for the Kidde IoT platform focused on smart home safety and indoor air quality systems.",
+        "Integrated Kidde Residential IoT devices including Smoke + Carbon Monoxide detectors, Water Leak sensors, and IAQ monitoring systems.",
+        "Contributed to migrating existing native Android and iOS applications into a unified Flutter ecosystem.",
+        "Designed and developed modern UI/UX screens along with scalable Flutter architecture implementations.",
+        "Implemented QR-based device commissioning, BLE/Wi-Fi communication, OTA firmware updates, property/device management, notifications, and family account management.",
+        "Integrated Google Home, Alexa, subscription management, and in-app purchases.",
+        "Wrote unit tests, widget tests, and participated in peer code reviews to improve application quality."
+      ]
+    },
+    {
+      "company": "Docty Healthcare Pvt. Ltd.",
+      "role": "Lead Mobile Developer & Mobile Developer",
+      "period": "May 2021 – Aug 2023",
+      "location": "Hyderabad",
+      "bullets": [
+        "Led a team of 3 mobile developers in delivering healthcare applications across India, Colombia, Ecuador, and South Africa.",
+        "Architected and developed scalable multi-tenant healthcare systems supporting clinics, pharmacies, wellness platforms, and corporate healthcare ecosystems.",
+        "Built custom Flutter plugins integrating GloryFit smart bands using BLE communication for health monitoring including SpO₂, blood pressure, heart rate, temperature, sleep tracking, and activity monitoring.",
+        "Developed applications from scratch using the latest Flutter architecture and scalable state management patterns.",
+        "Conducted regular code reviews, performance profiling, debugging, refactoring, and QA collaboration to ensure high-quality releases.",
+        "Reduced application load time by 40% through performance optimization and caching strategies.",
+        "Achieved 95% automation coverage with QA and DevOps collaboration.",
+        "Migrated applications to newer Flutter versions and improved plugin compatibility.",
+        "Contributed to Flutter Web migration and cross-platform optimization.",
+        "Integrated healthcare monitor devices including ECG, BP monitor, glucose monitor, SpO₂ monitor, spirometer, and heart rate sensors.",
+        "Implemented chat systems, real-time video streaming, Firebase push notifications, and Socket.io communication.",
+        "Improved Bluetooth communication stability and observability across Android and iOS."
+      ]
+    },
+    {
+      "company": "CallHealth Services Pvt. Ltd.",
+      "role": "Technical Project Lead & Software Engineer",
+      "period": "Jul 2017 – Feb 2021",
+      "location": "Hyderabad",
+      "bullets": [
+        "Led a team of 5 developers across multiple healthcare and logistics applications.",
+        "Improved on-time delivery and sprint predictability through Agile methodologies and risk management.",
+        "Delivered multilingual and multi-currency applications for international markets including Brazil and Azerbaijan.",
+        "Coordinated with external vendors and stakeholders for successful project delivery.",
+        "Developed Android applications for healthcare logistics, diagnostics, physiotherapy, and order management.",
+        "Built native Android apps for Field Officer Delivery and Order Booking across Diagnostics, Radiology, Medicines, Consultation, and Physiotherapy with a multi-business cart.",
+        "Implemented real-time order & geo tracking, prescription uploads, SLA calc, PODs, payment integrations, barcode scanning, OTP functionality, Firebase push notifications and WebRTC video consultation.",
+        "Integrated payments methods with Ezetap, Paytm QR, and Pine Labs.",
+        "Improved application performance and optimized APK size."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Metro City Pulse",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Web",
+        "Android",
+        "iOS",
+        "Mobile",
+        "Desktop",
+        "Responsive",
+        "Riverpod",
+        "GoRouter",
+        "Clean Architecture",
+        "Google Maps",
+        "Firebase Auth",
+        "Cross-platform",
+        "Smart City"
+      ],
+      "features": [
+        "Interactive Map Dashboard",
+        "Incident Marker Filtering",
+        "Stats & KPI Overview",
+        "CCTV Alert Playback",
+        "Dark & Light Theme",
+        "English & Spanish Localization",
+        "Responsive Navigation Shell",
+        "Offline Connectivity Handling",
+        "Date Range Filtering",
+        "Firebase Authentication"
+      ],
+      "desc": "Built a cross-platform smart city monitoring app with Google Maps incident tracking, operational dashboards, CCTV-backed alerts, and adaptive layouts for mobile, tablet, and desktop.",
+      "fullDescription": [
+        "Implemented an interactive Google Maps dashboard with incident markers, severity legends, custom info windows, filter controls, zoom tools, and periodic data refresh for live operational views.",
+        "Designed and developed a real-time smart city monitoring dashboard as a cross-platform Flutter app for web, Android, iOS, macOS, Linux, and Windows from a single codebase.",
+        "Built stats and alerts workspaces with KPI summary cards, tabbed case status, confidence scoring, date-range selection, and CCTV video playback for incident review.",
+        "Applied Clean Architecture with Riverpod state management, GoRouter navigation, repository-based data flow, reusable UI components, and responsive shell layouts that switch between side menu and bottom navigation."
+      ],
+      "previewImage": "assets/projects/metro_city_pulse_preview.jpg",
+      "playStoreUrl": [],
+      "appStoreUrl": [],
+      "githubUrl": "https://github.com/VVK027/metro_city_pulse"
+    },
+    {
+      "name": "Mastermind Driver App",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "React Native",
+        "JavaScript",
+        "TypeScript",
+        "Logistics",
+        "Android",
+        "iOS",
+        "Tablet",
+        "Web",
+        "REST API",
+        "Clean Architecture",
+        "Riverpod",
+        "Firebase",
+        "Crashlytics",
+        "Cross-platform"
+      ],
+      "features": [
+        "Route Management",
+        "Load Dispatch",
+        "Time Logging",
+        "Commodity Tracking",
+        "Responsive Tablet UI",
+        "Push Notifications",
+        "REST API Integration"
+      ],
+      "desc": "Led migration of a TMS driver app from React Native to Flutter and delivered responsive workflows across mobile, tablet, and web.",
+      "fullDescription": [
+        "Led the migration of a Transportation Management System (TMS) driver application from React Native to Flutter, significantly enhancing performance, maintainability, and scalability across mobile and tablet devices.",
+        "Redesigned and implemented tablet-optimized workflows, enabling drivers to seamlessly view routes, dispatch loads, log time-in/time-out, and update commodity details with improved usability and responsiveness.",
+        "Built responsive and adaptive UI components to ensure a consistent and intuitive experience across diverse device sizes and orientations.",
+        "Upheld high code quality standards through modular architecture, robust state management, strict linting, and peer code reviews—resulting in clean, production-ready Flutter code that accelerated feature delivery and strengthened long-term multi-platform support."
+      ],
+      "previewImage": "assets/projects/mastermind_drive_preview.jpg",
+      "playStoreUrl": [
+        "https://play.google.com/store/apps/details?id=com.masterysystems.drivermobile"
+      ],
+      "appStoreUrl": [
+        "https://apps.apple.com/us/app/mastermind-drive-2-0/id6673890540"
+      ]
+    },
+    {
+      "name": "The Kidde App",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "IOT",
+        "BLE",
+        "Wi-Fi",
+        "Android",
+        "iOS",
+        "Kotlin",
+        "Swift",
+        "Rest/GraphQL",
+        "Clean Architecture",
+        "GoRouter",
+        "Riverpod",
+        "Firebase",
+        "Crashlytics",
+        "Cross-platform"
+      ],
+      "features": [
+        "Home Safety",
+        "Device Commissioning",
+        "OTA Updates",
+        "Subscription Management",
+        "In-app Purchases",
+        "Push Notifications",
+        "Real-time Alerts",
+        "Device Commissioning",
+        "BLE",
+        "Wi-Fi",
+        "Alexa",
+        "Google Home"
+      ],
+      "desc": "Built home safety and IAQ platform with BLE/Wi-Fi commissioning, OTA firmware updates, voice integrations, and subscription support.",
+      "fullDescription": [
+        "Designed and developed the Kidde Home Safety & IAQ app, an IoT platform for managing Smoke + CO alarms, Water Leak, and Wi-Fi Smoke devices across multiple properties, offering real-time alerts, smart hush, and air quality monitoring.",
+        "Led end-to-end mobile development from native Android/iOS to Flutter, including UI/UX creation, device commissioning (manual/QR via BLE & Wi-Fi), OTA firmware updates, and user/family management.",
+        "Integrated Alexa and Google Home for voice control and in-app purchases for subscription management; ",
+        "Contributed Flutter widgets, unit tests, code coverage, and peer code reviews to ensure high-quality delivery."
+      ],
+      "previewImage": "assets/projects/kidde_app_preview.jpg",
+      "playStoreUrl": [
+        "https://play.google.com/store/apps/details?id=com.kidde.android.monitor1"
+      ],
+      "appStoreUrl": [
+        "https://apps.apple.com/us/app/kidde/id942334464"
+      ]
+    },
+    {
+      "name": "Flutter Dev Portfolio",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Web",
+        "Android",
+        "iOS",
+        "Mobile",
+        "Responsive",
+        "Riverpod",
+        "GoRouter",
+        "Clean Architecture",
+        "JSON-driven UI",
+        "Cross-platform"
+      ],
+      "features": [
+        "Responsive Layout",
+        "Dark & Light Theme",
+        "Section Navigation",
+        "Project Carousel",
+        "Skills & Experience",
+        "Client Reviews",
+        "Contact Section",
+        "GitHub Integration"
+      ],
+      "desc": "Built a responsive Flutter web and mobile portfolio with JSON-driven content, Riverpod state management, and adaptive section layouts.",
+      "fullDescription": [
+        "Designed and developed a personal developer portfolio as a cross-platform Flutter app deployable to web, Android, and iOS from a single codebase.",
+        "Structured the UI with scroll-synced section navigation, responsive carousels, and theme-aware components that adapt across mobile, tablet, and desktop breakpoints.",
+        "Loaded portfolio content from JSON assets so projects, experience, skills, and reviews can be updated without code changes.",
+        "Applied Clean Architecture with Riverpod providers, domain use cases, and reusable presentation widgets for maintainable, testable code."
+      ],
+      "previewImage": "assets/projects/flutter_portfolio_preview.jpg",
+      "playStoreUrl": [],
+      "appStoreUrl": [],
+      "githubUrl": "https://github.com/VVK027/flutter_portfolio"
+    },
+    {
+      "name": "Flutter Band Fit (Plugin)",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Plugin",
+        "BLE",
+        "Java",
+        "Swift",
+        "Android",
+        "iOS",
+        "Mobile",
+        "Platform Channel",
+        "Cross-platform"
+      ],
+      "features": [
+        "Smart Band Integration",
+        "Device Management",
+        "BLE Communication",
+        "Health Vitals Sync",
+        "Activity Monitoring",
+        "Alarms & Reminders",
+        "Firmware Updates",
+        "Watch Faces",
+        "Custom Watch Faces"
+      ],
+      "desc": "Created a cross-platform Flutter plugin with GloryFit/UTE SDK for health vitals sync, reminders, watch faces, and device management.",
+      "fullDescription": [
+        "Created a cross-platform Flutter plugin integrating GloryFit and UTE SDK for health-monitoring smart bands via BLE communication.",
+        "Supported real-time syncing of health vitals including SpO₂, blood pressure, heart rate, temperature, sleep tracking, and activity monitoring.",
+        "Implemented watch face customization, alarm and reminder management, sedentary alerts, and device firmware updates."
+      ],
+      "previewImage": "assets/projects/flutter_band_fit_preview.jpg",
+      "playStoreUrl": [],
+      "appStoreUrl": [],
+      "githubUrl": "https://github.com/VVK027/flutter_band_fit"
+    },
+    {
+      "name": "Docty Clinics",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Healthcare",
+        "Web",
+        "Mobile",
+        "Bloc",
+        "Cubit",
+        "REST API",
+        "Firebase",
+        "Crashlytics",
+        "Cross-platform"
+      ],
+      "features": [
+        "Appointment Booking",
+        "Physician Scheduling",
+        "Staff Management",
+        "Consultation Tracking",
+        "Pharmacy Operations",
+        "Branch Administration"
+      ],
+      "desc": "Developed a clinic and pharmacy operations app supporting staff, physician, appointment, consultation, and branch management.",
+      "fullDescription": [
+        "Developed a comprehensive mobile application designed to streamline the operations of clinics and pharmacies.",
+        "The platform enables efficient management of staff, patients, physicians, specialties, laboratories, consultations, and branch-level administration.",
+        "It supports configuration of operating hours, schedules, and availability, along with customizable SMS/email templates for automated communication.",
+        "The system also includes modules for appointment scheduling, subscription plans, service packages, coupons, and departmental organization - providing a unified and scalable digital healthcare management solution."
+      ],
+      "previewImage": "assets/projects/docty_clinics_preview.jpg",
+      "playStoreUrl": [],
+      "appStoreUrl": []
+    },
+    {
+      "name": "Docty Digital Health for All",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Android",
+        "iOS",
+        "Bloc",
+        "Cubit",
+        "Mobile",
+        "Web",
+        "Cross-platform",
+        "Healthcare",
+        "Payments"
+      ],
+      "features": [
+        "Video Consultation",
+        "EHR/PHR",
+        "Real-time Chat",
+        "Biometric Devices",
+        "Payment Gateways",
+        "Push Notifications",
+        "Multi-region Support"
+      ],
+      "desc": "Delivered a multi-region healthcare platform with video consults, EHR/PHR, real-time chat, biometrics, and payment gateway integrations.",
+      "fullDescription": [
+        "Delivered a multi-region healthcare platform serving patients and providers across India, Colombia, Ecuador, and South Africa.",
+        "Built video consultation, EHR/PHR management, real-time chat using Socket.io, biometric device integrations (ECG, BP, glucose, SpO₂, spirometer), and payment gateway integrations.",
+        "Reduced application load time by 40% through performance optimization and caching strategies, achieving 95% automation coverage with QA collaboration."
+      ],
+      "previewImage": "assets/projects/docty_health_preview.jpg",
+      "playStoreUrl": [
+        "https://play.google.com/store/apps/details?id=ai.doctyindia.patient",
+        "https://play.google.com/store/apps/details?id=ai.docty.patient"
+      ],
+      "appStoreUrl": [
+        "https://apps.apple.com/us/app/docty-digital-health-for-all/id1577088463",
+        "https://apps.apple.com/us/app/docty-india/id1577088463",
+        "https://apps.apple.com/us/app/docty-salud-digital-para-todos/id1536617848"
+      ]
+    },
+    {
+      "name": "CHHelps",
+      "tags": [
+        "React Native",
+        "JavaScript",
+        "TypeScript",
+        "Android",
+        "iOS",
+        "Mobile",
+        "Cross-platform"
+      ],
+      "features": [
+        "Dynamic Workflows",
+        "Ezetap POS",
+        "Order Tracking",
+        "SLA Calculation",
+        "Proof of Delivery",
+        "Push Notifications"
+      ],
+      "desc": "Led end-to-end RN app delivery with dynamic workflows and Ezetap POS payment integration through native bridge.",
+      "fullDescription": [
+        "Led end-to-end React Native application delivery with dynamic form-driven workflows and multi-business cart functionality.",
+        "Integrated Ezetap POS payment terminal through a native bridge module, enabling seamless in-field payment processing.",
+        "Built real-time order tracking, SLA calculation, proof-of-delivery capture, and push notification features."
+      ],
+      "previewImage": "assets/projects/chhelps_preview.jpg",
+      "playStoreUrl": [
+        "https://play.google.com/store/apps/details?id=com.callhealth.chassociates"
+      ],
+      "appStoreUrl": []
+    },
+    {
+      "name": "CallHealth Partners",
+      "tags": [
+        "Mobile",
+        "Healthcare",
+        "Android",
+        "Java",
+        "Kotlin",
+        "Logistics",
+        "Payments"
+      ],
+      "features": [
+        "Multi-business Cart",
+        "Self-allocation",
+        "QR/Barcode Scanning",
+        "GPS Tracking",
+        "WebRTC Video",
+        "Prescription Upload",
+        "Multilingual"
+      ],
+      "desc": "Built enhanced order execution platform with multi-business cart, self-allocation, QR, GPS tracking, and WebRTC AV support.",
+      "fullDescription": [
+        "Built an enhanced order execution platform for healthcare field operations across Diagnostics, Radiology, Medicines, Consultation, and Physiotherapy.",
+        "Implemented multi-business cart, self-allocation, QR/barcode scanning, real-time GPS tracking, prescription uploads, and WebRTC audio/video consultation support.",
+        "Delivered multilingual and multi-currency capabilities for international markets including Brazil and Azerbaijan."
+      ],
+      "previewImage": "assets/projects/callhealth_partners_preview.jpg",
+      "playStoreUrl": [
+        "https://play.google.com/store/apps/details?id=callhealth.officer"
+      ],
+      "appStoreUrl": []
+    },
+    {
+      "name": "CHInfoaids",
+      "tags": [
+        "Healthcare",
+        "Android",
+        "Java",
+        "Mobile"
+      ],
+      "features": [
+        "WebRTC Video",
+        "Real-time Chat",
+        "Firebase Notifications",
+        "ECG Monitor",
+        "BP Monitor",
+        "SpO₂ Monitor",
+        "Glucose Monitor"
+      ],
+      "desc": "Implemented real-time video consultation and chat app with Firebase, WebRTC, and medical device integrations.",
+      "fullDescription": [
+        "Implemented a real-time video consultation and chat application for healthcare providers and patients.",
+        "Integrated Firebase push notifications, WebRTC for audio/video streaming, and Socket.io for real-time messaging.",
+        "Connected medical devices including ECG, BP monitor, glucose monitor, SpO₂ monitor, spirometer, and heart rate sensors for remote health monitoring."
+      ],
+      "previewImage": "",
+      "playStoreUrl": [
+        "https://play.google.com/store/apps/details?id=com.callhealth.chinfoaids"
+      ],
+      "appStoreUrl": []
+    },
+    {
+      "name": "PraCHtizDoc",
+      "tags": [
+        "Ionic",
+        "Capacitor",
+        "Angular",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "JSON",
+        "REST API",
+        "Firebase",
+        "Operations",
+        "Cross-platform"
+      ],
+      "features": [
+        "Doctor Management",
+        "Patient Management",
+        "Appointment Management",
+        "Prescription Management",
+        "Billing Management",
+        "Inventory Management",
+        "Report Management",
+        "Notification Management",
+        "User Management"
+      ],
+      "desc": "Developed internal field-force app integrating payments, barcode scanning, socket communication, and REST workflows.",
+      "fullDescription": [
+        "Developed an internal field-force operations app using the Ionic framework for cross-platform deployment.",
+        "Integrated payments (Ezetap, Paytm QR, Pine Labs), barcode scanning, socket-based real-time communication, and REST API workflows.",
+        "Supported order booking, field officer dispatch, OTP verification, and delivery tracking."
+      ],
+      "previewImage": "assets/projects/prachtiz_doc_preview.jpg",
+      "playStoreUrl": [
+        "https://play.google.com/store/apps/details?id=com.callhealth.PraCHtizDoc"
+      ],
+      "appStoreUrl": []
+    },
+    {
+      "name": "Yellows & Greens",
+      "tags": [
+        "Flutter",
+        "Dart",
+        "Mobile",
+        "Android",
+        "iOS",
+        "Web",
+        "Cross-platform",
+        "Provider",
+        "eCommerce"
+      ],
+      "features": [
+        "Home Delivery",
+        "Store Pickup",
+        "Order Tracking",
+        "Digital Wallet",
+        "Complaint Management",
+        "Push Notifications"
+      ],
+      "desc": "Built cross-platform grocery app with home delivery/store pickup, tracking, wallet, and complaint management.",
+      "fullDescription": [
+        "Built a cross-platform grocery delivery application using Flutter with home delivery and store pickup options.",
+        "Implemented real-time order tracking, digital wallet, complaint management, and push notifications for order updates.",
+        "Designed responsive UI for seamless shopping experience across Android and iOS platforms."
+      ],
+      "previewImage": "assets/projects/yng_logo.png",
+      "playStoreUrl": [
+        "https://play.google.com/store/apps/details?id=com.yng.app"
+      ],
+      "appStoreUrl": []
+    },
+    {
+      "name": "Y&G Partner",
+      "tags": [
+        "Android",
+        "Java",
+        "Mobile",
+        "Commerce"
+      ],
+      "features": [
+        "Stock Management",
+        "Dynamic Pricing",
+        "Earnings Tracking",
+        "Order Handling",
+        "Delivery Scheduling",
+        "Push Notifications"
+      ],
+      "desc": "Created admin and delivery app for stock, pricing, earnings tracking, and push-enabled order handling.",
+      "fullDescription": [
+        "Created an admin and delivery partner app for the Yellows & Greens grocery platform.",
+        "Built features for stock management, dynamic pricing, earnings tracking, and push notification-enabled order handling.",
+        "Enabled delivery partners to manage their schedules, track deliveries, and update order statuses in real-time."
+      ],
+      "previewImage": "assets/projects/yng_logo.png",
+      "playStoreUrl": [],
+      "appStoreUrl": []
+    }
+  ],
+  "reviews": [
+    {
+      "quote": "Vivek is one of the best employee/colleague I ever meet. He is very passionate about his work and fully focused towards it. He strongly believes E2E development for each task. As an Android/React Native developer he handles all modules from coding to deployment. I am very glad that he was my colleague.",
+      "name": "Prakash Pradhan",
+      "role": "Associate Consultant, Engineering",
+      "company": "GlobalLogic",
+      "rating": 5
+    },
+    {
+      "quote": "He is a great performer and very confident to handle the whole project single-handedly. Great experience working with Vivek. All the best.",
+      "name": "Padmabhushan Singh",
+      "role": "CSM® · CSPO® · MCPD",
+      "rating": 5
+    },
+    {
+      "quote": "'Genuine expert' is the phrase that comes to mind when I think about Vivek Kumar. His ability to handle multiple projects was unlike any I've seen before and made a dramatic increase in the productivity level of our company. No matter how tense a meeting, Vivek made sure everyone left with a smile. As a team member or a leader, Vivek earns my highest recommendation.",
+      "name": "Sowjanya Pothireddi",
+      "role": "Agile Delivery · Scrum Master · Project Management",
+      "rating": 5
+    },
+    {
+      "quote": "Vivek has good insights and is a highly motivated person. He has a keen eye for detail. It was wonderful collaborating with him in designing multi-tenant apps when we worked together at CallHealth. He would surely be an asset to any company.",
+      "name": "Pallav Ghose",
+      "role": "Technical Team Lead",
+      "company": "Zemoso Technologies",
+      "rating": 5
+    }
+  ],
+  "awards": [
+    "Reduced application load time by 40% through performance optimization and caching improvements.",
+    "Led successful migration initiatives from native platforms to Flutter to improve scalability and reduce maintenance overhead.",
+    "Achieved around 95% automation coverage with QA and DevOps collaboration.",
+    "Built and integrated IoT and wearable ecosystems using BLE and Wi-Fi."
+  ],
+  "education": [
+    "M.Tech (Embedded Systems & VLSI Design) – JNTU Hyderabad, 2016",
+    "B.Tech (Electronics & Communication Engineering) – JNTU Hyderabad, 2013"
+  ],
+  "certifications": [
+    "The Complete Flutter Development with Dart – Udemy",
+    "NativeScript Mobile App Development – Udemy",
+    "Advanced Embedded Systems – Vector India"
+  ],
+  "contact": {
+    "note": "Open to Lead/Senior Mobile roles focused on Flutter architecture, IoT integrations, and high-impact product delivery.",
+    "email": "vickyvivek2727@gmail.com",
+    "phone": "+91 69133 39566",
+    "location": "Hyderabad, India",
+    "links": [
+      "https://linkedin.com/in/connectvivek27",
+      "https://github.com/VVK027",
+      "https://wa.me/917330002527"
+    ]
+  }
+}
