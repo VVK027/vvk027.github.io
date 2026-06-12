@@ -309,7 +309,8 @@
       "previewImage": "assets/projects/flutter_band_fit_preview.jpg",
       "playStoreUrl": [],
       "appStoreUrl": [],
-      "githubUrl": "https://github.com/VVK027/flutter_band_fit"
+      "githubUrl": "https://github.com/VVK027/flutter_band_fit",
+      "pubUrl": "https://pub.dev/packages/flutter_band_fit"
     },
     {
       "name": "Docty Digital Health for All",
