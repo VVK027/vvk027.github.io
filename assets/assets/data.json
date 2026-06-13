@@ -344,7 +344,7 @@
       "fullDescription": [
         "Delivered a multi-region healthcare platform serving patients and providers across India, Colombia, Ecuador, and South Africa.",
         "Built video consultation, EHR/PHR management, real-time chat using Socket.io, biometric device integrations (ECG, BP, glucose, SpO₂, spirometer), and payment gateway integrations.",
-        "Reduced application load time by 40% through performance optimization and caching strategies, achieving 95% automation coverage with QA collaboration."
+        "Reduced application load time by 40% through performance optimization and caching strategies, achieving 90% automation coverage with QA collaboration."
       ],
       "previewImage": "assets/projects/docty_health_preview.jpg",
       "playStoreUrl": [
@@ -625,9 +625,14 @@
     }
   ],
   "awards": [
+    "Pinnacle Performer Award – 2021, Docty HealthCare Pvt. Ltd.",
+    "Consolation Prize at Savishkar Utsav – 2012, Technical Fest for presentation project on Photophobic Robot.",
+    "Youth for Rural Reconstruction Campaign– 2011, NSS Member Certified."
+  ],
+  "achievements": [
     "Reduced application load time by 40% through performance optimization and caching improvements.",
     "Led successful migration initiatives from native platforms to Flutter to improve scalability and reduce maintenance overhead.",
-    "Achieved around 95% automation coverage with QA and DevOps collaboration.",
+    "Achieved around 90% automation coverage with QA and DevOps collaboration.",
     "Built and integrated IoT and wearable ecosystems using BLE and Wi-Fi."
   ],
   "education": [
